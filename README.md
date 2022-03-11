@@ -1,0 +1,2 @@
+# Java ATM PetProj
+ This program implements the interface of a bank ATM. By logging in with a username and PIN, the user should be able to make deposits, withdraw funds and transfer funds between accounts. The user should also be able to list transactions for each account, so this program can be something in between the functionality of an ATM and an online banking system. The goal of this project is to master the basic features of the Java language. The project is a homework assignment on the subject of the Java Programming Language.
